@@ -1,1 +1,1 @@
-web: java -jar target/massones-1.0.jar
+worker: java -jar target/massones-1.0.jar
